@@ -1,4 +1,4 @@
-Medic Bulletproof Vest Script
+## Medic Bulletproof Vest Script
 
 This FiveM script allows authorized medics to use a bulletproof vest item in-game. It integrates with `es_extended` and uses a progress animation to simulate the vest being equipped.
 
